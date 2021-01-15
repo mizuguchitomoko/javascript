@@ -10,3 +10,4 @@ document.getElementById("omikuji_btn").onclick = function () {
   if (rnd === 6) omikuji = "凶";
   alert(omikuji);
 };
+
