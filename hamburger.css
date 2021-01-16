@@ -95,3 +95,7 @@ header {
   transform: rotate(45deg);
   bottom: 0;
 }
+#mypic {
+  margin-top: 100px;
+  margin-left: 450px;
+}
